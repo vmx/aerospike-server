@@ -36,7 +36,7 @@ The Lua 5.1 language is required for User Defined Function (UDF) support.
 `lua-static`.
 
 * The Debian 6/7 and Ubuntu 10/12/14 Lua packages to install are:
-`lua5.1` and `liblua5.1-dev`.
+`lua5.1-0` and `liblua5.1-0-dev`.
 
 ### Submodules
 
